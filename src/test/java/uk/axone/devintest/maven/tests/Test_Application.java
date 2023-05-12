@@ -32,5 +32,11 @@ public class Test_Application {
         System.out.println("running test 5");
     }
 
+    @Test
+    public void test6(){
+        System.out.println("running test 6");
+    }
+
+
 
 }
